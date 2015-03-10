@@ -2,6 +2,10 @@
   "name": "vehicle-ymm",
   "version": "0.0.0",
   "description": "Vehicle years, makes, and models.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/brianshaler/vehicle-ymm"
+  },
   "main": "index.js",
   "author": "",
   "license": "ISC"
