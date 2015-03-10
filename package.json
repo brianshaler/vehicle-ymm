@@ -1,0 +1,8 @@
+{
+  "name": "vehicle-ymm",
+  "version": "0.0.0",
+  "description": "Vehicle years, makes, and models.",
+  "main": "index.js",
+  "author": "",
+  "license": "ISC"
+}
